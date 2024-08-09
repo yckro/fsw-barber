@@ -1,6 +1,5 @@
-const Aome = ()  => {
-    return <h1> Aome page</h1>;
-  
-  };
-  
-  export default Aome;
+const About = () => {
+  return <h1>about page</h1>
+}
+
+export default About
