@@ -1,5 +1,5 @@
 import { signIn } from "next-auth/react"
-import { Button } from "./ui/butt on"
+import { Button } from "./ui/Button"
 import { DialogDescription, DialogHeader, DialogTitle } from "./ui/dialog"
 import Image from "next/image"
 
