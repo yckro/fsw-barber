@@ -1,4 +1,5 @@
 "use client"
+
 import { Button } from "./ui/button"
 import { CalendarIcon, HomeIcon, LogInIcon, LogOutIcon } from "lucide-react"
 import { SheetClose, SheetContent, SheetHeader, SheetTitle } from "./ui/sheet"
@@ -14,7 +15,6 @@ const SidebarSheet = () => {
   const { data } = useSession()
   const handleLogoutClick = () => signOut()
 
-  console.log(data?.user)
   return (
     <SheetContent className="overflow-y-auto">
       <SheetHeader>
