@@ -1,12 +1,49 @@
-# Aula Zero
+<h1 align="center">FSW Barber</h1>
 
-- [x] Setup do banco
-- [x] Seeding do banco (colocar dados)
-- [] Introdução ao Next.js
-- [] Tailwind e Shadcn
-- [] Git Hooks
+<p align="center">
+  <img src="public/logo.png" alt="Descrição da imagem" width="300">
+</p>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+#
+
+
+<p align="center">
+<img loading="lazy" src="public/Screencast from 2024-09-05 16-13-48.webm"/>
+</p>
+
+# Barbershop Appointment App (Mobile Version)
+
+This project is a mobile app developed to streamline the appointment scheduling process for barbershops. With an intuitive and responsive interface, users can view available services, choose their preferred barber, and schedule appointments quickly and efficiently. The application is designed to enhance both the customer experience and simplify management for barbers.
+
+## Features
+
+- **Service Scheduling:** Select services such as haircuts, beard grooming, and more, choosing the preferred barber and available time slots.
+- **User Profile:** Allows clients to manage their personal information, track appointments, and receive notifications.
+- **Personalized Services:** Displays a detailed list of barbershop services, including prices and descriptions.
+- **Ratings and Feedback:** Customers can rate services and provide feedback to barbers.
+- **Map Integration:** View the barbershop location to make access easier.
+
+
+
+## Technologies Used
+
+- **Next.js**
+- **React.js**
+- **PostgreSQL**
+- **Tailwind CSS**
+- **Prisma**
+- **Node.js**
+- **ShadCN**
+- **TypeScript**
+- **JavaScript**
+
+## Purpose
+
+The purpose of this app is to digitize the barbershop appointment process, making it more accessible and convenient for customers, while providing an efficient management tool for barbers. The mobile version ensures that users can schedule services from anywhere, at any time.
 
 ## Getting Started
 
@@ -28,17 +65,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
