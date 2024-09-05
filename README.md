@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img loading="lazy" src="public/Screencast from 2024-09-05 16-13-48.webm"/>
+<img loading="lazy" src="public/Screencast from 2024-09-05 16-13-48.mp4"/>
 </p>
 
 # Barbershop Appointment App (Mobile Version)
