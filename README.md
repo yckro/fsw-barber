@@ -8,13 +8,6 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-#
-
-
-<p align="center">
-<img loading="lazy" src="public/WhatsApp Video 2024-09-06 at 11.18.23.mp4"/>
-</p>
-
 # Barbershop Appointment App (Mobile Version)
 
 This project is a mobile app developed to streamline the appointment scheduling process for barbershops. With an intuitive and responsive interface, users can view available services, choose their preferred barber, and schedule appointments quickly and efficiently. The application is designed to enhance both the customer experience and simplify management for barbers.
